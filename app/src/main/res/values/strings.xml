@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DiglettDemo</string>
+    <string name="begin_game">开始游戏</string>
+    <string name="gaming">游戏中...</string>
+</resources>
